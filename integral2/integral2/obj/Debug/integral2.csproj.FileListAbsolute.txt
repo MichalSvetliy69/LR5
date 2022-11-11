@@ -1,0 +1,11 @@
+C:\Users\Михаил\source\repos\integral2\integral2\bin\Debug\integral2.exe.config
+C:\Users\Михаил\source\repos\integral2\integral2\bin\Debug\integral2.exe
+C:\Users\Михаил\source\repos\integral2\integral2\bin\Debug\integral2.pdb
+C:\Users\Михаил\source\repos\integral2\integral2\obj\Debug\integral2.csproj.AssemblyReference.cache
+C:\Users\Михаил\source\repos\integral2\integral2\obj\Debug\integral2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Михаил\source\repos\integral2\integral2\obj\Debug\integral2.Form1.resources
+C:\Users\Михаил\source\repos\integral2\integral2\obj\Debug\integral2.Properties.Resources.resources
+C:\Users\Михаил\source\repos\integral2\integral2\obj\Debug\integral2.csproj.GenerateResource.cache
+C:\Users\Михаил\source\repos\integral2\integral2\obj\Debug\integral2.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\integral2\integral2\obj\Debug\integral2.exe
+C:\Users\Михаил\source\repos\integral2\integral2\obj\Debug\integral2.pdb
